@@ -18,7 +18,7 @@ Important Instructions (Before Running)
 Before executing the script, you must manually open the Prefetch folder once.
 
 1. Open the following path in File Explorer:
-   C:/Windows/System32/Prefech
+   C:/Windows/Prefech
 2. Wait until the folder fully loads.
 3. Close the File Explorer window.
 4. Run the batch file.
@@ -31,7 +31,7 @@ Repeat the same process:
 
 1. Open:
    
-C:/Windows/System32/Prefech
+C:/Windows/Prefech
 
 2. Close File Explorer.
 3. Run the script again.
